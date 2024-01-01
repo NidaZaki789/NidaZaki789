@@ -5,6 +5,6 @@
 - 📫 How to reach me: www.linkedin.com/in/nida-zaki-b78b3b119
 
 <!---
-NidaZaki789/NidaZaki789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NidaZaki789/NidaZaki789 is a ✨ special ✨ repository because its `Information.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
